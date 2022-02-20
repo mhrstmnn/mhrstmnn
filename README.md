@@ -1,4 +1,4 @@
-# Hi there 👋🏻
+## Hi there 👋🏻
 
 ### Welcome to my GitHub profile!
 
@@ -23,19 +23,18 @@ Here are some ideas to get you started:
 
 ### My name is Michael and …
 
-- 📍 I live in Germany 🇩🇪
-- 👨🏻‍💻 I'm a web and app developer
-- 🛠 I’m currently working on applications with Vue and Nuxt
+- 📍 I live in Germany
+- 👨🏻‍💻 I’m currently working on applications with Vue and Nuxt
 - 🌱 I’m currently learning React Native and Tauri
 - 👯 I’m looking to collaborate on open source projects
-- 📫 How to reach me: with [this contact form](https://horstmann-development.de/#kontakt) or via one of the options [here](https://hrstmnn.de/links)
-- 🐦 ![Twitter Follow](https://img.shields.io/twitter/follow/mhrstmnn?style=social)
+<!-- - 📫 How to reach me: with [this contact form](https://horstmann-development.de/#kontakt) or via one of the options [here](https://hrstmnn.de/links)
+- 🐦 ![Twitter Follow](https://img.shields.io/twitter/follow/mhrstmnn?style=social) -->
 
 ### My GitHub Streaks
 
 ![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=mhrstmnn&theme=vue)
 
-### More GitHub Statistics
+<!-- ### More GitHub Statistics
 
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=mhrstmnn&count_private=true&theme=vue&show_icons=true)
-![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhrstmnn&layout=compact&theme=vue)
+![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhrstmnn&layout=compact&theme=vue) -->
