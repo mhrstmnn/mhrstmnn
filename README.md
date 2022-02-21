@@ -1,3 +1,11 @@
+## Hi there 👋🏻
+
+### Welcome to my GitHub profile!
+
+![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhrstmnn&theme=default)
+![GitHub Statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mhrstmnn&theme=default)
+![GitHub Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mhrstmnn&theme=default)
+
 <!--
 **mhrstmnn/mhrstmnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,8 +21,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there 👋🏻
-
 ### My name is Michael and …
 
 - 📍 I live in Germany
@@ -24,11 +30,5 @@ Here are some ideas to get you started:
 <!-- - 📫 How to reach me: with [this contact form](https://horstmann-development.de/#kontakt) or via one of the options [here](https://hrstmnn.de/links)
 - 🐦 ![Twitter Follow](https://img.shields.io/twitter/follow/mhrstmnn?style=social) -->
 
-### Welcome to my GitHub profile!
-
-![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhrstmnn&theme=default)
-![GitHub Statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mhrstmnn&theme=default)
-![GitHub Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mhrstmnn&theme=default)
-
-- [My GitHub Streaks](GitHub_Streaks.md)
-- [More GitHub Statistics](GitHub_Statistics.md)
+- 📊 [More GitHub Statistics](GitHub_Statistics.md)
+- 🔥 [My GitHub Streaks](GitHub_Streaks.md)
