@@ -2,9 +2,9 @@
 
 ### Welcome to my GitHub profile!
 
-![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhrstmnn)
-![GitHub Statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mhrstmnn)
-![GitHub Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mhrstmnn)
+![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhrstmnn&theme=default)
+![GitHub Statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mhrstmnn&theme=default)
+![GitHub Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mhrstmnn&theme=default)
 
 <!--
 **mhrstmnn/mhrstmnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
