@@ -1,5 +1,14 @@
 ## Hi there 👋🏻
 
+### My name is Michael and …
+
+- 📍 I live in Germany
+- 👨🏻‍💻 I’m currently working on applications with Vue and Nuxt
+- 🌱 I’m currently learning React Native and Tauri
+- 👯 I’m looking to collaborate on open source projects
+<!-- - 📫 How to reach me: with [this contact form](https://horstmann-development.de/#kontakt) or via one of the options [here](https://hrstmnn.de/links)
+- 🐦 ![Twitter Follow](https://img.shields.io/twitter/follow/mhrstmnn?style=social) -->
+
 ### Welcome to my GitHub profile!
 
 ![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhrstmnn&theme=default)
@@ -20,12 +29,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### My name is Michael and …
-
-- 📍 I live in Germany
-- 👨🏻‍💻 I’m currently working on applications with Vue and Nuxt
-- 🌱 I’m currently learning React Native and Tauri
-- 👯 I’m looking to collaborate on open source projects
-<!-- - 📫 How to reach me: with [this contact form](https://horstmann-development.de/#kontakt) or via one of the options [here](https://hrstmnn.de/links)
-- 🐦 ![Twitter Follow](https://img.shields.io/twitter/follow/mhrstmnn?style=social) -->
