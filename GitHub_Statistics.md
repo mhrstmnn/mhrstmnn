@@ -11,6 +11,6 @@
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=mhrstmnn&count_private=true&show_icons=true)
 ![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhrstmnn&layout=compact)
 
-## [GitHub Streaks](https://github.com/denvercoder1/github-readme-streak-stats)
+## [GitHub Streaks 🔥](https://github.com/denvercoder1/github-readme-streak-stats)
 
 ![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=mhrstmnn)
