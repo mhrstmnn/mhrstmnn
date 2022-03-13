@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 - 💼 I’m currently working on applications with Vue and Nuxt
 - 🌱 I’m currently learning React Native and Tauri
 - 👨🏻‍💻 I’m looking to collaborate on open source projects
+- 📊 [My GitHub Statistics](GitHub_Statistics.md)
 <!-- - 📫 How to reach me: with [this contact form](https://horstmann-development.de/#kontakt) or via one of the options [here](https://hrstmnn.de/links)
 - 🐦 ![Twitter Follow](https://img.shields.io/twitter/follow/mhrstmnn?style=social) -->
-- 📊 [My GitHub Statistics](GitHub_Statistics.md)
