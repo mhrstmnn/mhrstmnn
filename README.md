@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 ### My name is Michael and …
 
 - 📍 I live in Germany
-- 💼 I’m currently working on applications with Vue and Nuxt
-- 🌱 I’m currently learning React Native and Tauri
+- 💼 I’m currently working on applications with [Vue](https://vuejs.org) and [Nuxt](https://nuxtjs.org)
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org), [Tauri](https://tauri.app) and [React Native](https://reactnative.dev)
 - 👨🏻‍💻 I’m looking to collaborate on open source projects
 - 📊 [My GitHub Statistics](GitHub_Statistics.md)
 <!-- - 📫 How to reach me: with [this contact form](https://horstmann-development.de/#kontakt) or via one of the options [here](https://hrstmnn.de/links)
