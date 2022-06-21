@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### My name is Michael and …
 
-- 📍 I live in Germany
+- 📍 I live in [Germany](https://goo.gl/maps/K9EeGfAKvvNEEACPA)
 - 💼 I’m currently working on applications with [Vue](https://vuejs.org) and [Nuxt](https://nuxtjs.org)
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org), [Tauri](https://tauri.app) and [React Native](https://reactnative.dev)
 - 👨🏻‍💻 I’m looking to collaborate on open source projects
