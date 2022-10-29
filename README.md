@@ -39,5 +39,5 @@ Here are some ideas to get you started:
 - 📊 My [GitHub Statistics](GitHub_Statistics.md)
 - 🌱 I’m currently learning [Go](https://go.dev), [Rust](https://www.rust-lang.org), [Tauri](https://tauri.app) and [Expo](https://expo.dev)
 - 👨🏻‍💻 I’m looking to collaborate on open source projects
-- 📫 How to reach me: via one of the options [here](https://hrstmnn.de/links)
+- 📫 How to reach me: via one of the options [here](https://links.hrstmnn.de)
 <!-- - 🐦 ![Twitter Follow](https://img.shields.io/twitter/follow/mhrstmnn?style=social) -->
