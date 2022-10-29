@@ -22,10 +22,22 @@ Here are some ideas to get you started:
 ### My name is Michael and …
 
 - 📍 I live in [Germany](https://goo.gl/maps/K9EeGfAKvvNEEACPA)
-- 💼 I’m currently working on apps with [Vue](https://vuejs.org) and [Nuxt](https://nuxtjs.org)
-- 🗣️
+- 🗣️ The languages I've used the most are:
+  - [JavaScript](https://en.wikipedia.org/wiki/JavaScript) & [TypeScript](https://www.typescriptlang.org)
+  - [CSS](https://en.wikipedia.org/wiki/CSS) & [Sass](https://sass-lang.com)
+  - [Python](https://www.python.org)
+  - [Java](https://en.wikipedia.org/wiki/Java_(programming_language))
+  - [PHP](https://www.php.net)
+  - [SQL](https://en.wikipedia.org/wiki/SQL)
+  - [C](https://en.wikipedia.org/wiki/The_C_Programming_Language) & [C++](https://en.wikipedia.org/wiki/C%2B%2B)
+  - [Racket](https://racket-lang.org) (Lisp)
+- 💼 I mostly work with:
+  - [Vue](https://vuejs.org) & [Nuxt](https://nuxtjs.org)
+  - [Express](https://expressjs.com)
+  - [Laravel](https://laravel.com)
+  - [Tailwind CSS](https://tailwindcss.com) & [Windi CSS](https://windicss.org)
+- 📊 My [GitHub Statistics](GitHub_Statistics.md)
 - 🌱 I’m currently learning [Go](https://go.dev), [Rust](https://www.rust-lang.org), [Tauri](https://tauri.app) and [Expo](https://expo.dev)
 - 👨🏻‍💻 I’m looking to collaborate on open source projects
-- 📊 My [GitHub Statistics](GitHub_Statistics.md)
-<!-- - 📫 How to reach me: with [this contact form](https://horstmann-development.de/#kontakt) or via one of the options [here](https://hrstmnn.de/links)
-- 🐦 ![Twitter Follow](https://img.shields.io/twitter/follow/mhrstmnn?style=social) -->
+- 📫 How to reach me: via one of the options [here](https://hrstmnn.de/links)
+<!-- - 🐦 ![Twitter Follow](https://img.shields.io/twitter/follow/mhrstmnn?style=social) -->
