@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### My name is Michael and …
 
 - I live in [Germany](https://goo.gl/maps/K9EeGfAKvvNEEACPA) 📍
-- The languages 🗣️ I've used the most are
+- The languages 🗣️ I've used the most are:
   - [JavaScript](https://en.wikipedia.org/wiki/JavaScript) & [TypeScript](https://www.typescriptlang.org) and
     [CSS](https://en.wikipedia.org/wiki/CSS) & [Sass](https://sass-lang.com)
   - [Python](https://www.python.org),
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     [C](https://en.wikipedia.org/wiki/The_C_Programming_Language) & [C++](https://en.wikipedia.org/wiki/C%2B%2B)
   - [PHP](https://www.php.net) and
     [SQL](https://en.wikipedia.org/wiki/SQL)
-- I mostly work 💼 with
+- I mostly work 💼 with:
   - [Vue](https://vuejs.org) & [Nuxt](https://nuxtjs.org)
   - [Tailwind](https://tailwindcss.com) & [Windi](https://windicss.org)
 - My [GitHub Statistics](GitHub_Statistics.md) 📊
