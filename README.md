@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     [SQL](https://en.wikipedia.org/wiki/SQL)
 - I mostly work with 💼
   - [Vue](https://vuejs.org) & [Nuxt](https://nuxtjs.org)
-  - [Tailwind CSS](https://tailwindcss.com) & [Windi CSS](https://windicss.org)
+  - [Tailwind](https://tailwindcss.com) & [Windi](https://windicss.org)
 - My [GitHub Statistics](GitHub_Statistics.md) 📊
 - I’m currently learning [Go](https://go.dev), [Rust](https://www.rust-lang.org), [Tauri](https://tauri.app) and [Expo](https://expo.dev) 🌱
 - I’m looking to collaborate on open source projects 👨🏻‍💻
