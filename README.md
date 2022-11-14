@@ -30,9 +30,10 @@ Here are some ideas to get you started:
     [C](https://en.wikipedia.org/wiki/The_C_Programming_Language) & [C++](https://en.wikipedia.org/wiki/C%2B%2B)
   - [PHP](https://www.php.net) and
     [SQL](https://en.wikipedia.org/wiki/SQL)
-- I mostly work 💼 with:
+- My favorite frameworks 🖼 are:
   - [Vue](https://vuejs.org) & [Nuxt](https://nuxtjs.org)
   - [Tailwind](https://tailwindcss.com) & [Windi](https://windicss.org)
+  - [Express](https://expressjs.com)
 - My [GitHub Statistics](GitHub_Statistics.md) 📊
 - I’m currently learning 🌱 [Go](https://go.dev), [Rust](https://www.rust-lang.org) and [Tauri](https://tauri.app)
 - I’m looking to collaborate 👨🏻‍💻 on open source projects
