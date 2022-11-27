@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 - My favorite frameworks 🖼 are:
   - [Vue](https://vuejs.org) & [Nuxt](https://nuxtjs.org)
   - [Tailwind](https://tailwindcss.com) & [Windi](https://windicss.org)
-  - [Express](https://expressjs.com)
 - My [GitHub Statistics](GitHub_Statistics.md) 📊
 - I’m currently learning 🌱 [Go](https://go.dev), [Rust](https://www.rust-lang.org) and [Tauri](https://tauri.app)
 - I’m looking to collaborate 👨🏻‍💻 on open source projects
