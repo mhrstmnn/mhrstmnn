@@ -23,11 +23,12 @@ Here are some ideas to get you started:
 
 - I live in [Germany](https://goo.gl/maps/K9EeGfAKvvNEEACPA) 📍
 - The languages 🗣️ I've used the most are:
-  - [JavaScript](https://en.wikipedia.org/wiki/JavaScript) & [TypeScript](https://www.typescriptlang.org) and
-    [CSS](https://en.wikipedia.org/wiki/CSS) & [Sass](https://sass-lang.com)
+  - [JavaScript](https://en.wikipedia.org/wiki/JavaScript) & [TypeScript](https://www.typescriptlang.org)
+  - [CSS](https://en.wikipedia.org/wiki/CSS) & [Sass](https://sass-lang.com)
   - [Python](https://www.python.org),
     [Java](https://en.wikipedia.org/wiki/Java_(programming_language)) and
-    [C](https://en.wikipedia.org/wiki/The_C_Programming_Language) & [C++](https://en.wikipedia.org/wiki/C%2B%2B)
+    [Nim](https://nim-lang.org)
+  - [C](https://en.wikipedia.org/wiki/The_C_Programming_Language) & [C++](https://en.wikipedia.org/wiki/C%2B%2B)
   - [PHP](https://www.php.net) and
     [SQL](https://en.wikipedia.org/wiki/SQL)
 - My favorite frameworks 🖼 are:
