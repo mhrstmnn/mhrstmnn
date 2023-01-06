@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   - [Vue](https://vuejs.org) & [Nuxt](https://nuxtjs.org)
   - [Tailwind](https://tailwindcss.com) & [Windi](https://windicss.org)
 - My [GitHub Statistics](GitHub_Statistics.md) 📊
-- I’m currently learning 🌱 [Go](https://go.dev), [Rust](https://www.rust-lang.org) and [Tauri](https://tauri.app)
+- I’m currently learning 🌱 [Go](https://go.dev)
 - I’m looking to collaborate 👨🏻‍💻 on open source projects
 - How to reach me: via one of the options [here](https://links.hrstmnn.de) 📫
 <!-- - ![Twitter Follow](https://img.shields.io/twitter/follow/mhrstmnn?style=social) 🐦 -->
