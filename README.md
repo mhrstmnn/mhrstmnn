@@ -33,7 +33,7 @@ Here are some ideas to get you started:
     [Kotlin](https://kotlinlang.org)
   - [C](https://en.wikipedia.org/wiki/The_C_Programming_Language) &
     [C++](https://en.wikipedia.org/wiki/C%2B%2B)
-  - [PHP](https://www.php.net) and
+  - [PHP](https://www.php.net) &
     [SQL](https://en.wikipedia.org/wiki/SQL)
 - My favorite frameworks 🖼 are:
   - [Vue](https://vuejs.org) & [Nuxt](https://nuxtjs.org)
