@@ -23,18 +23,11 @@ Here are some ideas to get you started:
 
 - I live in [Germany](https://goo.gl/maps/K9EeGfAKvvNEEACPA) 📍
 - The languages 🗣️ I've used the most are:
-  - [JavaScript](https://en.wikipedia.org/wiki/JavaScript) and
-    [TypeScript](https://www.typescriptlang.org)
-  - [CSS](https://en.wikipedia.org/wiki/CSS) and
-    [Sass](https://sass-lang.com)
-  - [Python](https://www.python.org) and
-    [Nim](https://nim-lang.org)
-  - [Java](https://en.wikipedia.org/wiki/Java_(programming_language)) and
-    [Kotlin](https://kotlinlang.org)
-  - [C](https://en.wikipedia.org/wiki/The_C_Programming_Language) and
-    [C++](https://en.wikipedia.org/wiki/C%2B%2B)
-  - [PHP](https://www.php.net) and
-    [SQL](https://en.wikipedia.org/wiki/SQL)
+  - [TypeScript](https://www.typescriptlang.org) and [Sass](https://sass-lang.com)
+  - [Python](https://www.python.org) and [Nim](https://nim-lang.org)
+  - [Java](https://en.wikipedia.org/wiki/Java_(programming_language)) and [Kotlin](https://kotlinlang.org)
+  - [C](https://en.wikipedia.org/wiki/The_C_Programming_Language) and [C++](https://en.wikipedia.org/wiki/C%2B%2B)
+  - [PHP](https://www.php.net) and [SQL](https://en.wikipedia.org/wiki/SQL)
 - My favorite frameworks 🖼 are:
   - [Vue](https://vuejs.org) and [Nuxt](https://nuxtjs.org)
   - [Tailwind](https://tailwindcss.com) and [Windi](https://windicss.org)
