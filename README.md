@@ -29,5 +29,4 @@ Here are some ideas to get you started:
 - My favorite frameworks are: [Nuxt](https://nuxt.com) & [UnoCSS](https://unocss.dev)
 - You can see my GitHub Statistics 📊 [here](GitHub_Statistics.md)
 - I’m looking to collaborate 👨🏻‍💻 on open source projects
-- How to reach me: via one of the options [here](https://links.hrstmnn.de) 📫
-<!-- - ![Twitter Follow](https://img.shields.io/twitter/follow/mhrstmnn?style=social) 🐦 -->
+- How to reach me 📫: via one of the options [here](https://links.hrstmnn.de)
