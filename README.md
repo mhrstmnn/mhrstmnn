@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 ### My name is Michael and …
 
 - I live in [Germany](https://goo.gl/maps/K9EeGfAKvvNEEACPA) 📍
-- The languages 🗣️ I've used the most are: [TypeScript](https://www.typescriptlang.org), [PHP](https://www.php.net), [Python](https://www.python.org), [Nim](https://nim-lang.org), [Java](https://www.oracle.com/java/), [C](https://en.wikipedia.org/wiki/The_C_Programming_Language) and [C++](https://en.wikipedia.org/wiki/C%2B%2B)
-- My favorite frameworks 🖼 are: [Vue](https://vuejs.org) ([Nuxt](https://nuxt.com)) and [Tailwind](https://tailwindcss.com) ([UnoCSS](https://unocss.dev))
+- The languages I've used the most are: [TypeScript](https://www.typescriptlang.org), [PHP](https://www.php.net), [Python](https://www.python.org), [Nim](https://nim-lang.org), [Java](https://www.oracle.com/java/), [C](https://en.wikipedia.org/wiki/The_C_Programming_Language) and [C++](https://en.wikipedia.org/wiki/C%2B%2B)
+- My favorite frameworks are: [Nuxt](https://nuxt.com) and [UnoCSS](https://unocss.dev)
 - You can see my [GitHub Statistics](GitHub_Statistics.md) 📊 here
 - I’m looking to collaborate 👨🏻‍💻 on open source projects
 - How to reach me: via one of the options [here](https://links.hrstmnn.de) 📫
