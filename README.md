@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 - The languages I've used the most are: [Python](https://www.python.org), [Nim](https://nim-lang.org), [TypeScript](https://www.typescriptlang.org), [PHP](https://www.php.net), [Java](https://www.oracle.com/java/), [C++](https://en.wikipedia.org/wiki/C%2B%2B) and [C](https://en.wikipedia.org/wiki/The_C_Programming_Language)
 - Some frameworks that I like: [Vue.js](https://vuejs.org), [Nuxt](https://nuxt.com), [Next.js](https://nextjs.org), [Astro](https://astro.build), [hapi](https://hapi.dev), [UnoCSS](https://unocss.dev) and [Pico.css](https://picocss.com)
 - You can see my GitHub Statistics [here](GitHub_Statistics.md) 📊
-- I’m looking to collaborate 👨🏻‍💻 on open source projects
+- I’m looking to collaborate on open source projects 👨🏻‍💻
 - How to reach me: via one of the options [here](https://links.hrstmnn.de) 📫
