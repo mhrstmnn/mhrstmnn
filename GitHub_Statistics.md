@@ -5,7 +5,7 @@
 ![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhrstmnn&theme=default)
 
 ![GitHub Statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mhrstmnn&theme=default)
-![GitHub Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mhrstmnn&theme=default)
+![GitHub Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mhrstmnn&theme=default&utcOffset=1)
 
 ### [More Stats](https://github.com/anuraghazra/github-readme-stats)
 
